@@ -12,7 +12,7 @@ To start the app, run:
 
 ### `npm start`
 
-##App Notes:##
+## App Notes:
 
 - To see the card meta data as returned via the Elder Scrolls API, hover over the card image to expose.
 
