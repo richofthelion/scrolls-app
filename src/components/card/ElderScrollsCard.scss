@@ -1,0 +1,34 @@
+.elder-scrolls-card {
+  height: 450px;
+  width: 250px;
+  margin: 6px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-size: 12px;
+
+  img {
+    z-index: 9;
+    transition: all 0.4s ease 0s;
+
+    &:hover {
+      opacity: .2;
+      transition: all 0.4s ease 0s;
+      cursor: pointer;
+    }
+  }
+
+  .card-meta {
+    width: 60%;
+    left: 60px;
+    top: 100px;
+    position: absolute;
+    display: flex;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

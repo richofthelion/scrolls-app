@@ -1,0 +1,18 @@
+#grid{
+  h1, .infinite-scroll-component{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: "Gill Sans", sans-serif;
+  }
+
+  .message {
+    display: flex;
+    width: 100%;
+    font-size: 24px;
+    justify-content: center;
+    margin: 15px;
+    font-family: "Gill Sans", sans-serif;
+  }
+}
