@@ -6,15 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can install dependencies by running:
 
-### `npm start`
+### `npm install`
 
 To start the app, run:
 
 ### `npm start`
 
-App Notes:
+##App Notes:##
 
-### One thing to note, to see the card meta data as returned via the Elder Scrolls API, hover over the card image to expose.
+- To see the card meta data as returned via the Elder Scrolls API, hover over the card image to expose.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
